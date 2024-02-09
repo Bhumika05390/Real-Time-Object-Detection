@@ -25,7 +25,7 @@ cd ~/Desktop/opencv_project
 git clone https://github.com/Bhumika05390/Real-Time-Object-Detection.git
 cd Real-Time-Object-Detection
 ```
-**Step 3:** Install all the necessary libraries. I used MacOS for this project. These are some of the libraries I had to install:
+**Step 3:** Install all the necessary libraries. I used Windows for this project. These are some of the libraries I had to install:
 
 ```
 brew install opencv
