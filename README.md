@@ -7,7 +7,7 @@ Here, we will go through the steps required for setting up the project and some 
 
 **Hi!**
 
-![Screenshot (325)](https://github.com/Bhumika05390/Real-Time-Object-Detection/assets/79781292/86ddb578-4431-42f1-b4f6-42465d072b21)
+![Rtod](https://github.com/Bhumika05390/Real-Time-Object-Detection/assets/79781292/fa4bfda1-618f-4d80-89ed-deb060800443)
 
 
 ### How to run this code?
