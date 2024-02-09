@@ -5,7 +5,7 @@
 This project aims to do real-time object detection through a laptop camera or webcam using OpenCV and MobileNetSSD. The idea is to loop over each frame of the video stream, detect objects like person, chair, dog, etc. and bound each detection in a box.
 Here, we will go through the steps required for setting up the project and some explanation about the code.
 
-**Hi!**
+
 
 ![Rtod](https://github.com/Bhumika05390/Real-Time-Object-Detection/assets/79781292/fa4bfda1-618f-4d80-89ed-deb060800443)
 
@@ -58,9 +58,4 @@ python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt
 python real_time_object_detection.py --help
 ```
 
-### References and Useful Links
 
-* https://github.com/chuanqi305/MobileNet-SSD
-* https://github.com/opencv/opencv
-* https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
-* https://github.com/jrosebr1/imutils
